@@ -1,0 +1,5 @@
+Repository / Repo
+-- A location where you store a collection of files
+
+Commit
+-- Saving the changes made to a file / set of files in a repository
