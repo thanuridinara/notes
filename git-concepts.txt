@@ -3,3 +3,6 @@ Repository / Repo
 
 Commit
 -- Saving the changes made to a file / set of files in a repository
+
+Fork
+-- a copy of a repository that is created within another user's account or organization
